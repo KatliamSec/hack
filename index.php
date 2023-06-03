@@ -23,7 +23,7 @@
         </font>
         <br><br>
         <font face="Courier New" color="white" size="5">
-            <span style="text-shadow: 0px 0px 9px ;">bu kadar deface konunuz var daha xssi kapatamamissiniz ;D</span>
+            <span style="text-shadow: 0px 0px 9px ;">yuzlerce deface konunuz var, daha xssi kapatamamissiniz ;D</span>
         </font>
         <br><br>
         <font face="Courier New" color="white" size="6">
